@@ -1,0 +1,56 @@
+html {
+    font-family: 'Courier New', Courier, monospace;
+    background: #948297;
+    padding-top: 4em;
+
+}
+
+h1{
+    height: 40px;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contactMe{
+    display: flex;
+    justify-content:center;
+}
+img{
+    border-radius: 20px;
+}
+img:hover{
+    rotate: 5deg;
+}
+#coFrame{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+}
+#copilotBtn{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 30px;
+    width: 210px;
+
+}
+
+.self{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 18px;
+}
+.skills{
+    justify-content: center;
+}
+.tab{
+    padding-left: 20px;
+}
