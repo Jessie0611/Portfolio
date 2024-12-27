@@ -1,0 +1,55 @@
+main{
+    width: auto;
+	height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	padding-bottom: 50px;
+}
+.cellRow1{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+}
+.cellBox{
+    text-align: left;
+    border-radius: 30px;
+    padding: 20px;
+}
+.pBox{
+    color: grey;
+    font-size: 18px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+.jdbBox{
+    color: grey;
+    width: 80%;
+    font-size: 18px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+.jbBox{
+    color: grey;
+    width: 90%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+    padding: 20px;
+}

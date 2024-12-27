@@ -1,0 +1,53 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+
+}
+#leftBox, #rightBox {
+    margin: 8px;
+    width: 500px;   
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+input[type=text] {
+    width: 90%;
+    padding: 15px;
+    margin: 2px;
+    box-sizing: border-box;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+input[type=email] {
+    width: 90%;
+    padding: 15px;
+    margin: 2px;
+    box-sizing:border-box;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+input[type=tel] {
+    width: 90%;
+    padding: 15px;
+    margin: 2px;
+    box-sizing: border-box;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+button {
+    width: 120px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: #69a5f0;
+    color: black;
+}

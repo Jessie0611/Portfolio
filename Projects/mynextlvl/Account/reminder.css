@@ -1,0 +1,62 @@
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+#leftBox{
+    margin: 1px;
+    width: 400px;   
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+.rightContainer{
+    display: flex;
+    flex-direction: column;
+}
+.rightBox{
+    width: 400px;   
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+button {
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #69a5f0;
+    color: black;
+}
+.inputBox {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    align-items: center;
+}
+select, option{
+    width: 220px;
+    height: 40px;
+    border-radius: 30px;
+}
+#date{
+    width: 220px;
+    height: 40px;
+    border-radius: 30px;
+}
+#time{
+    width: 220px;
+    height: 40px;
+    border-radius: 30px;
+}

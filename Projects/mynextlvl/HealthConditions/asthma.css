@@ -1,0 +1,39 @@
+main{
+    width: auto;
+	height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	padding-bottom: 50px;
+}
+.asthmaRow1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+}
+.asthmaRow2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+
+}
+.box{
+    text-align: left;
+    height: 80%;
+    border-radius: 30px;
+    padding: 20px;
+}
+.pBox{
+    color: grey;
+    font-size: 20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 400px;
+    height: 300px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}

@@ -1,0 +1,60 @@
+.allergyRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+
+}
+.box{
+    text-align: left;
+    height: 80%;
+    border-radius: 30px;
+    padding: 20px;
+}
+.aBox{
+    color: grey;
+    font-size: 20px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 360px;
+    height: 330px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 30px;
+}
+.radiO {
+    border: 1px solid grey;
+    width: 300px;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    border-radius: 30px;
+    height: 40px;
+    align-items: center;
+}
+button {
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    border: 1px solid  rgb(175, 170, 170);
+    background-color:#3a8bee;
+    font-size: .8em;
+    margin-bottom: 8px;
+    color: white;
+    cursor: pointer;
+}
+.submit{
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border: 1px solid  rgb(175, 170, 170);
+    background-color:#3a8bee;
+    font-size: 1em;
+    margin-bottom: 15px;
+    color: white;
+    cursor: pointer;
+}

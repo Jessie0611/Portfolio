@@ -54,3 +54,64 @@ img:hover{
 .tab{
     padding-left: 20px;
 }
+nav{
+    margin: 30px;
+    margin-left: 180px;
+    padding: 10px;
+}
+.dropbtn {
+    margin-left: 20px;
+    padding: 20px;
+    border: none;
+    background: #826287;
+    border: 1px solid white;
+    color: #fff2df;
+  }
+
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    padding: 1px;
+
+  }
+  .dropdown-content {
+    color: #fff2df;
+    background-color: #6d4a72;
+    margin-left: 20px;
+    font-size: 1em;
+    display: none;
+    position: absolute;
+    min-width: 210px;
+    box-shadow: 0px 4px 12px 2px #433045;
+    z-index: 1;
+  }
+ .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+a{
+    color: white;
+    text-decoration: none;
+
+}
+a:visited{
+    color: #fde1c4;
+}
+.dropdown-content a:hover {
+    background-color:#a370ab;
+    font-size: 16px;
+    letter-spacing: 5px;
+
+}
+ 
+.dropdown:hover .dropdown-content {
+    display: block;
+    letter-spacing: 2px;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #a370ab;
+    letter-spacing: 2px;
+}

@@ -1,0 +1,20 @@
+.pBox{
+    color: grey;
+    font-size: 15px;
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 160px;
+    border: 1px solid rgb(175, 170, 170);
+    border-radius: 40px;
+}
+.localRow{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:flex-start;
+    padding: 2px;
+}

@@ -1,0 +1,37 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.1.2">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+      dc:format="application/vnd.adobe.sparkler.project+dcx"
+      xmp:CreateDate="2023-09-16T10:22:42.742-04:00"
+      xmp:CreatorTool="xctest"
+      xmp:MetadataDate="2023-10-02T19:18:23.268-04:00"
+      xmp:ModifyDate="2023-10-02T19:18:23.268-04:00"
+      xmpMM:DocumentID="62477e66-9026-4efc-9183-4e0671616c33"
+      xmpMM:InstanceID="c083d6e1-119c-49bb-ae17-f67aeb2b5123"
+      xmpMM:OriginalDocumentID="62477e66-9026-4efc-9183-4e0671616c33">
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">FITFINITY </rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="created"
+            stEvt:instanceID="62477e66-9026-4efc-9183-4e0671616c33"
+            stEvt:softwareAgent="xctest"
+            stEvt:when="2023-09-16T10:22:42.742-04:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:instanceID="c083d6e1-119c-49bb-ae17-f67aeb2b5123"
+            stEvt:softwareAgent="xctest"
+            stEvt:when="2023-10-02T19:18:23.268-04:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
